@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin :0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #fffefe;
+}
+.work{
+    color: #323332;
+    font-family: 'Poppins',sans-serif;
+    width: 150px;
+    padding-left: 0px;
+
+}
+.extralogin{
+    font-size:70%;
+    text-align: right;
+}
+h2{
+    color: #323332;
+    font-family: 'Poppins',sans-serif;
+}
+.welcome{
+    width:150px;
+    margin-top:130px;
+    padding-left: 0px;
+}
+
+.logoimage{
+    margin-left:6px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+form{
+    border-radius: 20px;
+    width: 320px;
+    background-color: #fffefe;
+    padding: 50px 0px 20px 0px ;
+}
+p{
+    margin-bottom: 0rem;
+    margin-right: 25px;
+}
+
+
+.logbutton{
+    width: 100%;
+    border: none;
+    border-radius: 50px;
+    background: rgba(87,184,70,255);
+    font-family: 'Poppins',sans-serif;
+    margin-top:20px;
+
+}
+
+.form-control{
+    color: #d9d9d9;
+    border-bottom-color: #d9d9d9;
+    box-shadow:none !important;
+    border: none;
+    border-bottom: 2px solid;
+    border-radius: 4px 4px 0 0;
+}
+
+.logbutton:hover{
+    width: 100%;
+    border: none;
+    border-radius: 50px;
+    background: #323332;
+}
+.form-control:focus{
+    
+    color:#323332;
+    box-shadow:none !important;
+    border: none;
+    border-bottom: 2px solid;
+    border-radius: 4px 4px 0 0;
+}
+
+
+
+
